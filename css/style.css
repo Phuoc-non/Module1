@@ -1,0 +1,38 @@
+header{
+    background: grey;
+}
+nav ul{
+    background: cadetblue;
+    
+}
+li{
+    display: inline-block;
+    width: 30%;
+}
+a{
+    font-size: 150%;
+}
+main{
+    background-color: yellow;
+    
+}
+
+img{
+    width: 10%;;
+}
+body{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: large;
+}
+footer{
+    background: rgb(225, 216, 216);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+p{
+    font-size: 150%;
+}
+h1{
+    
+    text-align: center;
+    font-family: cursive;
+}
